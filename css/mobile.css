@@ -1,0 +1,37 @@
+#navbar h1,#navbar ul, #navbar ul li {
+  float: none;
+  text-align: center;
+  line-height: 0.1px;
+
+}
+#navbar ul li {
+  border-bottom: dotted 2px #555;
+  padding: 0px;
+}
+#home-info .info-img {
+  background-image: none;
+  float: none;
+}
+#home-info .info-content {
+  float: none;
+  width: 100%;
+  position:relative; 
+  bottom: 400px;
+}
+.box {
+  float: none;
+  width: 100%;
+}
+#about-info .info-right img, #about-info .info-left {
+  float:none;
+  width:100%
+}
+#about-info .info-left h1 {
+  padding: 20px 10px;
+}
+#testimonials .container {
+ margin-bottom: -50px;
+}
+#contact-form .container h1{
+  margin-top: 10px;
+}
